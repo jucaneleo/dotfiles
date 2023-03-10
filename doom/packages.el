@@ -51,4 +51,5 @@
 (package! evil-snipe :disable t)
 (package! js-react-redux-yasnippets)
 (package! lsp-haskell)
+(package! emmet-mode)
 (package! solaire-mode :disable)
